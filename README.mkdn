@@ -1,7 +1,8 @@
 AerithUniverse 4.19.x Kernel Source
+==================================================
+
 Big Thanks to @RyuujiX, @SonicBSV, and the others
 Based on KnightWalker 4.19 Kernel Source
-==================================================
 
 Getting Started
 ---------------
